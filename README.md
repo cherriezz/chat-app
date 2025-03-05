@@ -2,7 +2,6 @@
 
 *Tech Stack*
 ```
--Frontend: React.js
--Backend: Node.js (Express) + Socket.IO
--Database: MongoDB
+-Backend: Node.js, Express, and Socket.IO
+-Frontend: HTML, CSS, and JavaScript
 -Real-time Communication: WebSockets (Socket.IO)
